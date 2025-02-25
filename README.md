@@ -121,3 +121,6 @@ In future updates, the extension can include additional features such as:
 Conclusion
 
 Productivity Tracker is a powerful Chrome extension designed to help users take control of their online habits. By tracking time spent on various websites, classifying them based on productivity, and providing insightful analytics, this tool empowers individuals to make more informed decisions about their browsing behavior. Whether you’re a student, professional, or someone looking to boost efficiency, this extension is a valuable addition to your productivity toolkit.
+
+*Output:*
+![Image](https://github.com/user-attachments/assets/8f958e22-040c-4646-8a27-7ad630c42bb3)
