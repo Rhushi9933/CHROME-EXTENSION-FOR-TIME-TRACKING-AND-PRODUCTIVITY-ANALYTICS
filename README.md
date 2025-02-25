@@ -21,7 +21,7 @@ Introduction
 In today’s digital world, managing online activities effectively is essential for maintaining productivity. Many individuals struggle with spending excessive time on unproductive websites, leading to decreased efficiency in their personal and professional lives. To address this issue, Productivity Tracker, a Chrome extension, has been developed to monitor the time users spend on various websites and provide insightful analytics.
 
 This extension tracks browsing habits, classifies websites as productive or unproductive, and generates detailed reports. The tool enables users to understand their internet usage patterns and optimize their productivity by limiting distractions.
-
+________________________________________
 Project Overview
 
 The Productivity Tracker Chrome extension consists of three main components:
@@ -33,7 +33,7 @@ The Productivity Tracker Chrome extension consists of three main components:
 3.	Custom Website Classification: Users can define specific websites as productive or unproductive, allowing for personalized tracking based on individual needs.
    
 This extension is designed for students, professionals, and anyone who wants to develop better digital habits.
-
+________________________________________
 Key Features
 
 1. Automatic Website Time Tracking
@@ -71,7 +71,7 @@ The settings page allows users to manage:
 •	Alerts or notifications when exceeding a predefined time limit
 
 •	Weekly or daily report preferences
-
+________________________________________
 Technical Implementation
 
 1. Chrome Extension Structure
@@ -95,7 +95,7 @@ The extension uses the chrome.tabs API to detect when a user switches tabs or op
 3. Data Storage
 
 Time logs are stored in Chrome’s local storage (chrome.storage.local) to maintain user privacy. If a backend is implemented, it will store the data in a cloud database for synchronization across devices.
-
+________________________________________
 Benefits of Using This Extension
 
 1.	Increased Productivity: Users can identify and minimize time spent on distractions.
@@ -107,7 +107,7 @@ Benefits of Using This Extension
 4.	User-Friendly Interface: The popup UI and dashboard provide an easy-to-understand summary of browsing habits.
 
 5.	Customizable Experience: Users have complete control over how websites are categorized and monitored.
-
+________________________________________
 Future Enhancements
 
 In future updates, the extension can include additional features such as:
@@ -117,10 +117,10 @@ In future updates, the extension can include additional features such as:
 •	AI-based Categorization: Automating the classification of websites based on browsing patterns.
 
 •	Mobile Compatibility: Expanding functionality to mobile browsers for cross-platform tracking.
-
+________________________________________
 Conclusion
 
 Productivity Tracker is a powerful Chrome extension designed to help users take control of their online habits. By tracking time spent on various websites, classifying them based on productivity, and providing insightful analytics, this tool empowers individuals to make more informed decisions about their browsing behavior. Whether you’re a student, professional, or someone looking to boost efficiency, this extension is a valuable addition to your productivity toolkit.
-
+________________________________________
 *Output:*
 ![Image](https://github.com/user-attachments/assets/8f958e22-040c-4646-8a27-7ad630c42bb3)
